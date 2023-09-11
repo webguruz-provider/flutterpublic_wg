@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Food Guru</string>
+        <string name="facebook_app_id">558796566118901</string>
+        <string name="fb_login_protocol_scheme">fb558796566118901</string>
+        <string name="facebook_client_token">bec36081843b17e5d8c871ab747d5a24</string>
+</resources>

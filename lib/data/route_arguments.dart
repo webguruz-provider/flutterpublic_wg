@@ -1,0 +1,59 @@
+const String typeGoogle = 'Google';
+const String typeEmail = 'Email';
+const String keyCategory = 'keyCategory';
+const String keyItemListType = 'keyItemListType';
+
+const String keyIndex = 'keyIndex';
+const String keyName = 'keyName';
+const String keyModel = 'keyModel';
+const String keyOrderType = 'keyOrderType';
+const String point = 'point';
+const String wallet = 'wallet';
+const String pointUse = 'pointUse';
+const String walletUse = 'walletUse';
+const String isBirthdaySpecial = 'isBirthdaySpecial';
+const String keyId = 'keyId';
+const String keyItemTotal = 'keyItemTotal';
+const String keyIdList = 'keyIdList';
+const String keyList = 'keyList';
+const String keyFromHome = 'keyFromHome';
+const String keyFromWallet = 'keyFromWallet';
+const apiKey = 'AIzaSyBbeqHE0gEJuJz7wz3hoiUw-MT3FSiQ9wE';
+
+const typeRestaurant = 1;
+const typeFood = 2;
+const typeHome = 1;
+const typeOffice = 2;
+const typeVegNonVeg = 1;
+const typeVeg = 2;
+const typeNonVeg = 3;
+const typeTrue = 1;
+const typeFalse = 0;
+const minAgeToUseApp = 18;
+const firebaseUsers = 'users';
+const firebaseAddresses = 'addresses';
+const isOrderCompleted = 'isOrderCompleted';
+const isDarkModeKey = 'isDarkModeKey';
+const fromOrderFlowKey = 'fromOrderFlowKey';
+const keyAmountToAdd = 'keyAmountToAdd';
+const fromProfileKey = 'fromProfileKey';
+const fromHomeKey = 'fromHomeKey';
+const fromDineInKey = 'fromDineInKey';
+const typeEnglish = 'en';
+const typeHindi = 'hi';
+const keyEnglish = 1;
+const keyHindi = 2;
+const keyOrderPlaced = 1;
+const keyOrderAccepted = 2;
+const keyOrderCancel = 3;
+const keyOrderCompleted = 4;
+const keyOrderTypeDelivery = 1;
+const keyOrderTypeTakeaway = 2;
+const keyOrderTypeDineIn = 3;
+const keyItemRecentlyOrdered = 1;
+const keyItemSeasonalSpecial = 2;
+const keyItemRecommended = 3;
+
+
+//HERO Animations
+const heroRestaurantLogo = 'ABCD';
